@@ -4,7 +4,7 @@
 
 ---
 
-## 🏝 Project Overview
+##  Project Overview
 
 The project features a custom island built using the **Landscape** tool. To populate the environment, I used **Procedural Foliage** and integrated the **Water System** for a more dynamic and immersive world.
 
